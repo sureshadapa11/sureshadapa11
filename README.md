@@ -1,12 +1,12 @@
 ## About me
 
--🔭 I'm currently working as a Data Analyst
--🌱 I'm currently learning Machine Learning & Deep Learning
--👯 I'm looking to collaborate on ML/AI Projects
--🤔 I'm looking for help with Advanced Machine Learning & AI Research
--💬 Ask me about Data Analysis, Python, SQL, Power BI & Tableau
--📫 How to reach me: adapasuresh11@gmail.com
--⚡ Fun fact: I love turning messy data into meaningful stories!
+-🔭 I'm currently working as a Data Analyst<br>
+-🌱 I'm currently learning Machine Learning & Deep Learning<br>
+-👯 I'm looking to collaborate on ML/AI Projects<br>
+-🤔 I'm looking for help with Advanced Machine Learning & AI Research<br>
+-💬 Ask me about Data Analysis, Python, SQL, Power BI & Tableau<br>
+-📫 How to reach me: adapasuresh11@gmail.com<br>
+-⚡ Fun fact: I love turning messy data into meaningful stories!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suresh Adapa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SureshPatel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adapasuresh26@gmail.com) 
