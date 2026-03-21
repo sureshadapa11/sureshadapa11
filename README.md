@@ -5,7 +5,7 @@
 -👯 I'm looking to collaborate on ML/AI Projects<br>
 -🤔 I'm looking for help with Advanced Machine Learning & AI Research<br>
 -💬 Ask me about Data Analysis, Python, SQL, Power BI & Tableau<br>
--📫 How to reach me: adapasuresh11@gmail.com<br>
+-📫 How to reach me: adapasuresh26@gmail.com<br>
 -⚡ Fun fact: I love turning messy data into meaningful stories!<br>
 
 ## 🌐 Socials:
