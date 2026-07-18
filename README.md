@@ -14,6 +14,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [CPER — Carbon Intelligence Platform](https://www.cper.co.uk) 🔴 *Live SaaS* | AI platform for UK construction: Vision AI reads delivery notes and calculates embodied carbon in <30s, matches materials to verified EPDs, forecasts carbon budget breaches 2 weeks ahead, and exports BREEAM/CSRD/SECR compliance reports | Python, GPT-4o Vision, ML forecasting |
 | [DataSense AI](https://github.com/sureshadapa11/datasense-ai) | Turns any CSV/Excel into an interactive dashboard — auto KPI detection, anomaly reports, and a natural-language Data Agent (Claude) that converts questions into executable pandas code | Python, Streamlit, Claude API, Plotly |
 | [NutreGen AI](https://github.com/sureshadapa11/nutregen-ai) | Personalized nutrition insights generated from DNA trait data | Python, Flask, Render |
 | [Policy Assistant](https://github.com/sureshadapa11/policy-assistant) | RAG-based company policy Q&A assistant *(capstone — in progress)* | Python, LLM APIs, Vector DB |
