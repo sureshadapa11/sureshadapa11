@@ -8,7 +8,7 @@
 -👯 I'm looking to collaborate on LLM & AI Engineering projects<br>
 -💬 Ask me about Python, SQL, Data Analysis, Power BI & building AI apps with the Claude API<br>
 -📫 How to reach me: adapasuresh26@gmail.com<br>
--⚡ Fun fact: I love turning messy data into products people actually use!<br>
+-⚡ Fun fact: I used to build dashboards people read — now I build AI agents that answer back!<br>
 
 ## 🚀 Featured Projects
 
